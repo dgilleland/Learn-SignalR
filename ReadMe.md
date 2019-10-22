@@ -4,4 +4,4 @@
 
 ## NuGet Packages
 
-![](NuGet-SignalR.png)
+![](Nuget-SignalR.png)
